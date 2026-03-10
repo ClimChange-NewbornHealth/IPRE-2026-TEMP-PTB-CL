@@ -1,6 +1,6 @@
 # IPRE Verano 2026
 
-# "Impacto de la exposición a las olas de calor sobre el riesgo de un parto prematuro: una exploración del efecto en distintas comunas de Chile” / Impact of exposure to heat waves on the risk of premature birth: an exploration of the effect in different municipalities of Chile"
+#"Impacto de la exposición a las olas de calor sobre el riesgo de un parto prematuro: una exploración del efecto en distintas comunas de Chile” / Impact of exposure to heat waves on the risk of premature birth: an exploration of the effect in different municipalities of Chile"
 
 **Profesora Guía:** Estela Blanco  - College UC y Escuela de Salud Pública, Pontificia Universidad Católica de Chile
 
